@@ -44,7 +44,7 @@
             <div class="home__data">
                 <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Md. Alif Khan Rifat</span><br>Junior Software Developer</h1>
 
-                <a href="#" class="button">Download CV</a>
+                <a href="https://drive.google.com/file/d/1kHY9QXlpM8IK3QBA8ptVwFTsBYJdd8nh/view?usp=drive_link" class="button">Download CV</a>
             </div>
 
             <div class="home__social">
