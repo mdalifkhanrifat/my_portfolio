@@ -44,7 +44,7 @@
             <div class="home__data">
                 <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Md. Alif Khan Rifat</span><br>Junior Software Developer</h1>
 
-                <a href="https://drive.google.com/file/d/1kHY9QXlpM8IK3QBA8ptVwFTsBYJdd8nh/view?usp=drive_link" class="button">Download CV</a>
+                <a href="https://drive.google.com/uc?export=download&id=1kHY9QXlpM8IK3QBA8ptVwFTsBYJdd8nh" class="button">Download CV</a>
             </div>
 
             <div class="home__social">
@@ -78,7 +78,7 @@
 
                 <div>
                     <h2 class="about__subtitle">I'am Md Alif Khan Rifat</h2>
-                    <p class="about__text">I work as a web developer at the moment. It's one of my passions to learn new things/technology and also to share knowledge with others. I am responsible, dedicated, trustworthy, and punctual. Having completed a B.Sc. in Computer Science and Engineering, I am qualified to work in this field. <br> I'm originally from Sirajganj, but I'm now based in Mirpur, Dhaka.</p>
+                    <p class="about__text">I work as a web developer at the moment. It's one of my passions to learn new things/technology and also to share knowledge with others. I am responsible, dedicated, trustworthy, and punctual. I have completed my graduation from City University in the department of Computer Science and Engineering.<br> I'm originally from Sirajganj, but I'm now based in Mirpur, Dhaka.</p>
                 </div>
             </div>
         </section>
