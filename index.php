@@ -48,10 +48,10 @@
             </div>
 
             <div class="home__social">
-                <a href="" class="home__social-icon"><i class='bx bxl-github'></i></a>
-                <a href="" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
-                <a href="" class="home__social-icon"><i class='bx bxl-facebook'></i></a>
-                <a href="" class="home__social-icon"><i class='bx bxl-instagram'></i></a>
+                <a href="https://github.com/mdalifkhanrifat" class="home__social-icon" target="_blank"><i class='bx bxl-github'></i></a>
+                <a href="https://www.linkedin.com/in/mdalifkhanrifat/" class="home__social-icon" target="_blank"><i class='bx bxl-linkedin'></i></a>
+                <a href="https://www.facebook.com/mdalifkhanrifat" class="home__social-icon" target="_blank"><i class='bx bxl-facebook'></i></a>
+                <a href="https://www.instagram.com/mdalifkhanrifat/" class="home__social-icon" target="_blank"><i class='bx bxl-instagram'></i></a>
             </div>
 
             <div class="home__img">
@@ -164,9 +164,9 @@
         <!-- <subhead>mdalifkhanrifat@gmail.com</subhead> -->
 
         <div class="footer__social">
-            <a href="#" class="footer__icon"><i class='bx bxl-facebook'></i></a>
-            <a href="#" class="footer__icon"><i class='bx bxl-instagram'></i></a>
-            <a href="#" class="footer__icon"><i class='bx bxl-twitter'></i></a>
+            <a href="https://www.facebook.com/mdalifkhanrifat" class="footer__icon" target="_blank"><i class='bx bxl-facebook'></i></a>
+            <a href="https://www.instagram.com/mdalifkhanrifat/" class="footer__icon" target="_blank"><i class='bx bxl-instagram'></i></a>
+            <a href="https://github.com/mdalifkhanrifat" class="footer__icon" target="_blank"><i class='bx bxl-github'></i></a>
         </div>
         <p class="footer__copy">Md Alif Khan Rifat &#169; All rigths reserved</p>
     </footer>
