@@ -2,7 +2,6 @@
 <section class="home bd-grid" id="home">
             <div class="home__data">
                 <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">Md. Alif Khan Rifat</span><br>Junior Software Developer</h1>
-
                 <a href="https://drive.google.com/uc?export=download&id=1xewse6Z9yCBAz_yuV-6KrbWNfx8QcqgF" class="button">Download CV</a>
             </div>
 

@@ -4,7 +4,7 @@
 
             <div class="skills__container bd-grid">
                 <div>
-                    <h2 class="skills__subtitle">Profesional Skills</h2>
+                    <h2 class="skills__subtitle">Programming Skills</h2>
                     <!-- <p class="skills__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit optio id vero amet, alias architecto consectetur error eum eaque sit.</p> -->
                     <div class="skills__data">
                         <span class="skills__name">Programming Languages : C, C++, PHP(With Laravel Framework), JavaScript</span>
@@ -27,7 +27,7 @@
                 </div>
 
                 <div>
-                    <img src="assets/img/work3.jpg" alt="" class="skills__img">
+                    <img src="assets/img/icpc.jpg" alt="" class="skills__img">
                 </div>
             </div>
         </section>
