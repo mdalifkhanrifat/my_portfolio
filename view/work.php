@@ -18,8 +18,8 @@
                 <a href="" class="work__img">
                     <img src="assets/img/work5.jpg" alt="">
                 </a>
-                <a href="" class="work__img">
+                <!-- <a href="" class="work__img">
                     <img src="assets/img/work6.jpg" alt="">
-                </a>
+                </a> -->
             </div>
         </section>
